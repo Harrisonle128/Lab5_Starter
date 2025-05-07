@@ -2,4 +2,6 @@
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
 1. Harrison Le
-2. Harry Wang
+
+Parts of Lab
+- [Expose Page (Party Horn)](https://harrisonle128.github.io/Lab5_Starter/expose.html)
