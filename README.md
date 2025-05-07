@@ -4,4 +4,4 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 1. Harrison Le
 
 Parts of Lab
-- [Expose Page (Party Horn)](https://harrisonle128.github.io/Lab5_Starter/expose.html)
+- [Expose Page](https://harrisonle128.github.io/Lab5_Starter/expose.html)
